@@ -1,1 +1,1 @@
-# nIdustrial-Copper-Modeling
+# Idustrial-Copper-Modeling
